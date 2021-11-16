@@ -1,0 +1,15 @@
+<html>
+<head>
+           <title>Javascript Variables</title>
+
+           </head>
+<body>
+
+    <script>
+console.log('Kubra');
+    </script>
+</body>
+
+</html>
+
+
